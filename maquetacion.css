@@ -1,0 +1,47 @@
+body{background-color:aquamarine;
+width: 850px;
+margin:auto;
+}
+
+h1{font-style: italic;
+text-aling: center;
+font-size: 25px;
+}
+
+h2, h3, h4, h5, h6, h7, #pie,li{font-style: italic;
+text-aling:center
+font-size: 18px;
+}
+
+
+
+#menu, #contenido, #info{
+float:left;
+padding:0;
+margin:0;
+}
+
+#menu{
+width:400px;
+text-aling:center}
+
+#contenido, #info{
+width:400px;
+}
+
+#pie, #lista{
+clear:both
+}
+
+
+
+
+
+
+
+
+
+
+
+laquinielamx.xp3.biz
+loveoz7722
